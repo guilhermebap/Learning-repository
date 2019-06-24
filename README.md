@@ -12,7 +12,7 @@ Repository where I put all the exercises I did in my learning process
   Pros: Many exercises of different themes and great teaching
   
 - Directory py4e
-  Exercises from the course "Python for everybody" by Charles Severance 
+  Exercises from the course "**Python for everybody**" by Charles Severance 
   Language: English
   Pros: Great teaching and detailed explanations
 
