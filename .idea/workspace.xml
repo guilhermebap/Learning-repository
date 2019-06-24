@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8af244e0-561b-46b6-95a6-e8842bdabac0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/py4e/Ex_10_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/Ex_2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/Ex_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/Ex_3_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/Ex_4_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/Ex_5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/Ex_6_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/Ex_7_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/Ex_8_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/Ex_8_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/Ex_9_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/addtwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/argfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/argtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/authors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/avelist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/avenum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/average.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/badhtml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/builder/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/builder/_html5lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/builder/_htmlparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/builder/_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/dammit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/diagnose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/tests/test_builder_registry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/tests/test_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/tests/test_html5lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/tests/test_htmlparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/tests/test_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/tests/test_soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/bs4/tests/test_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/celsius.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/cleanup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/clown.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/copytildone1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/copytildone2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/count1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/count2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/count3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/curl1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/curl2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/curl3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/db1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/db2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/egg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/elev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/emaildb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/fahren.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/fahren2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/geodata.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/geodata/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/geodata/geodump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/geodata/geoload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/geodata/where.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/geodata/where.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/geodata/where.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/geojson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/georeq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/geoxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gitpulls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gitsecrets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/giturl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane/d3.layout.cloud.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane/d3.v2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane/gbasic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane/gline.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane/gline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane/gmane.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane/gmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane/gword.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane/gword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane/gyear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/gmane/mapping.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/grade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/greet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/grep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/hidden.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/intro-short.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/intro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/json1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/json2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/lyrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/mailcount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/mailtop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/mbox-short.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/mbox.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/notry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/oauth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/open.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/__init__.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/builder/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/builder/__init__.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/builder/_html5lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/builder/_html5lib.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/builder/_htmlparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/builder/_htmlparser.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/builder/_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/builder/_lxml.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/dammit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/dammit.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/diagnose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/diagnose.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/element.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/testing.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/tests/test_builder_registry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/tests/test_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/tests/test_html5lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/tests/test_html5lib.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/tests/test_htmlparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/tests/test_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/tests/test_lxml.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/tests/test_soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/tests/test_soup.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/tests/test_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/bs4/tests/test_tree.py.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/d3.v2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/force.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/force.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/force.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/spdump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/spider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/spjson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/sprank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pagerank/spreset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/party.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/party1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/party2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/party3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/party4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/party5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/party6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pay2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/pay3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/re15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/romeo-full.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/romeo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/roster.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/roster/roster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/roster/roster_data_sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/search1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/search10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/search2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/search3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/search4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/search5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/search6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/search7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/search8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/search9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/socket1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/socket2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/soft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/spamave.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/tracks.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/tracks/Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/tracks/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/tracks/tracks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/tryexcept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/trynum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/twdump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/twfriends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/twitter1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/twitter2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/twjoin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/twspider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/twtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/twurl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/txtcheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/txtcheck2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/txtcheck3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/txtcount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/txtdelete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/txtmd5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/txtsize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/urljpeg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/urllib1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/urllib2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/urllink2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/urllink3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/urllinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/urlregex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/urlwords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/whathour.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/wikidata.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/wikigrade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/wordlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/xml1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/code3/xml2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/ex_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/floor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/regex_sum_230994.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/regex_sum_42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/py4e/teste.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cursoemvideo/desafios/017.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Exercícios de python.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Exercícios de python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercícios de python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercícios de python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercícios de python" type="462c0819:PsiDirectoryNode" />
+              <item name="cursoemvideo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercícios de python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercícios de python" type="462c0819:PsiDirectoryNode" />
+              <item name="cursoemvideo" type="462c0819:PsiDirectoryNode" />
+              <item name="desafios" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="017" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Exercícios de python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cursoemvideo/desafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cursoemvideo/desafios/017.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.017" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8af244e0-561b-46b6-95a6-e8842bdabac0" name="Default Changelist" comment="" />
+      <created>1561412801258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561412801258</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cursoemvideo/desafios/017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
